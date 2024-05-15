@@ -1,4 +1,4 @@
-# [PRESENT DEMO PROJECT](https://github.com/arturocc365/present-demo-project)
+# [PRESENT DEMO PROJECT](https://github.com/arturocc365/present-demo-project/blob/main/README.md)
 present demo project  This repo is focused on presenting the demo projects
 Aqui presentare mis proyectos demos donde desempeño mis capacidades con Java
 ***
